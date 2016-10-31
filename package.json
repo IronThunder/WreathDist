@@ -8,6 +8,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.13.3"
   }
 }
