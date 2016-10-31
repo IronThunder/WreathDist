@@ -8,6 +8,7 @@
     "start": "node distServer.js"
   },
   "dependencies": {
-    "body-parser": "^1.13.3"
+    "body-parser": "^1.13.3",
+	"browser-sync": "2.13.0"
   }
 }
